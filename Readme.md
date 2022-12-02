@@ -1,6 +1,6 @@
 
 ## 🚀 Hi I'm Mon
-I am a software engineerwho passionate about solving thigns and coding.
+I am a software engineer who passionate about solving thigns and coding.
 Currently, I live in Bangkok and work in Agoda.
 
 
