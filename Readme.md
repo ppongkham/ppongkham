@@ -1,7 +1,7 @@
 
 ## 🚀 Hi I'm Mon
 I am a software engineer who passionate about solving thigns and coding.
-Currently, I live in Bangkok and work in Agoda.
+Currently, I live in Bangkok and working at Agoda.
 
 
 ## 🔗 Click me
